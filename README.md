@@ -1,4 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroto-Shida&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there I'm Hiroto-Shida🗿
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroto-Shida&layout=donut&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hiroto-Shida/Hiroto-Shida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
